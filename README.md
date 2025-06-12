@@ -25,13 +25,6 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - YOY Growth in Cars Sold
 - Difference between YTD Cars Sold and PTYD Cars Sold
 
-## Problem Statement 2: Charts Requirement
-1. **YTD Sales Weekly Trend:** Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
-2. **YTD Total Sales by Body Style:** Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
-3. **YTD Total Sales by Color:** Present the contribution of various car colors to the YTD total sales through a pie chart.
-4. **YTD Cars Sold by Dealer Region:** Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
-5. **Company-Wise Sales Trend in Grid Form:** Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
-6. **Details Grid Showing All Car Sales Information:** Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
 
 ## Data Available
 ### Car Data:
@@ -57,11 +50,6 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - Month
 - Week
 - Year
-
-### DashBoard 
-
-![home1](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a39d22f2-eff5-400d-b99d-7c5f2efcc165)
-![home2](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/93db30a6-bf1e-4edd-918b-11cf05cddc18)
 
 **Problem Statement 1: KPI’s**
 
@@ -97,34 +85,3 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - **Difference between YTD Cars Sold and PTYD Cars Sold:** 3K
     - **Formula:** `[YTD Car Solds]-[PTYD Car Solds]`
  
-**Problem Statement 2: Charts**
-
-
-**YTD Sales Weekly Trend:**
-![WeeklyTrend](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/006c793b-0266-49ee-b6c2-19d0bdd4e7f8)
-
-
-**YTD Total Sales by Body Style:**
-![YTDTotalSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/2afe3465-c089-4a6c-96c5-99cb43f448a2)
-
-
-**YTD Total Sales by Color:** 
-![YTDTotalSalesByColor](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/0864e0f0-3c0b-472a-a5c0-b6d00182ea39)
-
-
-**YTD Cars Sold by Dealer Region:** 
-![DealerRegion](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/38574caf-6ce0-44cc-9760-75b516647d6c)
-
-
-**Company-Wise Sales Trend in Grid Form:** 
-![AllCarSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/171f7629-8380-4f30-bf26-b44f13bad065)
-
-
-**Details Grid Showing All Car Sales Information:** 
-![details](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a2efe884-ad4d-4f66-b2a6-205b01120b4a)
-
-
-
-
-## Done by
-   - Girish Chowdary
